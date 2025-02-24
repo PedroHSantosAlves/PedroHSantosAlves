@@ -2,7 +2,7 @@
 
 **`Estudante de Python e SQL`**
 
-Meu nome é Pedro Henrique dos Santos Alves, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhaguemra. Gosto de tecnologia e pretendo compartilhar meus conhecimentos atraves do meu github
+Meu nome é Pedro Henrique dos Santos Alves, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Gosto de tecnologia e pretendo compartilhar meus conhecimentos atraves do meu github
 
 
 ### 🤖 Linguagens e Tecnologias
