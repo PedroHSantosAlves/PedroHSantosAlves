@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👩🏻‍💻 Pedro H S Alves
 
-<!--
-**PedroHSantosAlves/PedroHSantosAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Python e SQL`**
 
-Here are some ideas to get you started:
+Meu nome é Pedro Henrique dos Santos Alves, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhaguemra. Gosto de tecnologia e pretendo compartilhar meus conhecimentos atraves do meu github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
