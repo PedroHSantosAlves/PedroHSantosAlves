@@ -1,33 +1,29 @@
-# 👩🏻‍💻 Pedro H S Alves
+# Olá, eu sou o Pedro! 
 
-**`Estudante de Java`**
+**Estudante de Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera e um **nerd de PC**.
 
-Meu nome é Pedro Henrique dos Santos Alves, tenho 22 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Gosto de tecnologia e pretendo compartilhar meus conhecimentos atraves do meu github
-Futuro programador em Java
+Não curto muito ficar quebrando a cabeça resolvendo problemas complexos, então sempre procuro o caminho mais rápido, prático e menos complicado pra tudo. Meu foco é **backend**, é onde eu me sinto mais em casa. Pretendo me aprofundar cada vez mais nessa área, especialmente com **Java**.
 
+---
 
-### 🤖 Linguagens e Tecnologias
+- Cursando **Java** no Dev Dojo (YouTube)
+- Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera
+- Após me formar, pretendo ingressar em uma **pós-graduação em Java**
 
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 🛠️ Ferramentas que uso
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+- **Java**
+- **MySQL**
+- **IntelliJ** / **VS Code**
 
-<br/>
-<br/>
+---
 
+### 📬 Como entrar em contato
 
+Me encontra no **LinkedIn** → https://www.linkedin.com/in/phsa/
+
+---
+
+**Sempre aberto pra trocar ideia sobre backend, Java ou qualquer coisa relacionada a programação!** 💻
