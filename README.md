@@ -6,7 +6,6 @@ Não curto muito ficar quebrando a cabeça resolvendo problemas complexos, entã
 
 ---
 
-- Cursando **Java** no Dev Dojo (YouTube)
 - Tecnologo em **Análise e Desenvolvimento de Sistemas** pela Faculdade Anhanguera
 
 ---
