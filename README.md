@@ -7,12 +7,11 @@ Não curto muito ficar quebrando a cabeça resolvendo problemas complexos, entã
 ---
 
 - Cursando **Java** no Dev Dojo (YouTube)
-- Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera
-- Após me formar, pretendo ingressar em uma **pós-graduação em Java**
+- Tecnologo em **Análise e Desenvolvimento de Sistemas** pela Faculdade Anhanguera
 
 ---
 
-### 🛠️ Ferramentas que uso
+### Ferramentas que uso
 
 - **Java**
 - **MySQL**
@@ -20,7 +19,7 @@ Não curto muito ficar quebrando a cabeça resolvendo problemas complexos, entã
 
 ---
 
-### 📬 Como entrar em contato
+###  Como entrar em contato
 
 Me encontra no **LinkedIn** → https://www.linkedin.com/in/phsa/
 
